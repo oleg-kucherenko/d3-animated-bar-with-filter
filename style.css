@@ -1,0 +1,26 @@
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#slider {
+  text-align: center;
+  margin: 20px;
+  font-family: sans-serif;
+  font-size: 10px;
+  line-height: 2;
+}
+
+#sales-range {
+  vertical-align: bottom;
+}
+
+#viz {
+  width: 100%;
+  text-align: center;
+}
+
+svg {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+}
